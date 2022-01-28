@@ -30,6 +30,8 @@
 ```
 pip install -r requirements.txt
 ```
+### 🪝・Add A Webhook
+#### You need to add the URL of your webhook on line 14 where it says "WEBHOOK HERE".
 ### 📁・Converting From Py To Exe File
 Install [pyinstaller](https://pypi.org/project/pyinstaller/) `pip install pyinstaller` then go to GrabberShli folder and type
 ```
