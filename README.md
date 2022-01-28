@@ -24,7 +24,7 @@
 * `their password for discord (you get their password if they update it)`
 * `all of their credit card info (if they put one in)`
 
-
+## 🌟 Star This Repository If You Liked GrabberShli
 
 ### 📝・Installing Required Modules
 ```
@@ -48,5 +48,5 @@ Add these into the command when creating the exe if you want
 | `--uac-admin` Requests admin privileges upon running the exe |
 | `--hidden-import MODULENAME` Name an import not visible in the code of the script. Can be used multiple times |
 
-## Grabber Shli was made by Shlimazl#1337
+### Grabber Shli was made by Shlimazl#1337
 ### I AM NOT RESPONSİBLE FOR WHAT HAS BEEN DONE ⚠️
